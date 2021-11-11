@@ -18,13 +18,9 @@
 
 <bean name="customer" class="springcore_example.Customer">  
 <property name="customerId" value = "1">  </property>  
-<property name="customerName"  value = "Anil">  </property>
+<property name="customerName"  value = "Danish">  </property>
 <property name="customerContact"  value = "8779930443">  </property>
 <property name="customerAddress" ref = "address">  </property>
-
-</bean>
-
-<bean> 
 
 </bean>  
   

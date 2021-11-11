@@ -57,9 +57,9 @@ public class Customer
 	}
 	
 	void displayInfo() {
-//		System.out.println("customer id is :" +getCustomerId());
-//		System.out.println("customer name is :" +getCustomerName());
-//		System.out.println("customer contact is :" +getCustomerContact());
+		System.out.println("customer id is :" +getCustomerId());
+		System.out.println("customer name is :" +getCustomerName());
+		System.out.println("customer contact is :" +getCustomerContact());
 //		
 	}
 	
